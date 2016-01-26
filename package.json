@@ -1,6 +1,6 @@
 {
   "name": "moss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tool for creating domain query languages that compile directly to graphql queries",
   "main": "index.js",
   "scripts": {
