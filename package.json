@@ -1,0 +1,29 @@
+{
+  "name": "moss",
+  "version": "1.0.0",
+  "description": "A tool for creating domain query languages that compile directly to graphql queries",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koleok/moss.git"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "Kyle Chamberlain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Koleok/moss/issues"
+  },
+  "homepage": "https://github.com/Koleok/moss#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  },
+  "dependencies": {
+    "sql-parser": "^0.5.0"
+  }
+}
